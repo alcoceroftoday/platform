@@ -1,4 +1,4 @@
-## This project has been created by[David Alcocer](https://dalcocer.com).
+## This project has been created by [David Alcocer](https://dalcocer.com).
 
 ## Use in the project
 
